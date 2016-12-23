@@ -4,7 +4,7 @@
 #
 Name     : wsgiref
 Version  : 0.1.2
-Release  : 16
+Release  : 17
 URL      : https://pypi.python.org/packages/source/w/wsgiref/wsgiref-0.1.2.zip
 Source0  : https://pypi.python.org/packages/source/w/wsgiref/wsgiref-0.1.2.zip
 Summary  : WSGI (PEP 333) Reference Library
